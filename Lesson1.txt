@@ -1,0 +1,9 @@
+lesson1_reflections
+
+to get a summary of the commits use 
+git log
+
+to get a comparison of two commits use 
+git diff <initial id> <final id>
+
+git would make you more confident since you can always revert back easily, even if it means pulling out lots of random lines of spread out code

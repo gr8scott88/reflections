@@ -1,0 +1,2 @@
+the git files are created on repository creation, however a commit is not created. 
+
