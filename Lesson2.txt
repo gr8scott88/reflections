@@ -1,3 +1,5 @@
 the git files are created on repository creation, however a commit is not created. 
 
 the staging area allows you to mark small subtasks of a logical though as done, working up to a full commit, it also allows you to see / control the scope of the commit and manage changes in batches as necessary
+
+Branches are handy to manage different ideas, risky features, or alternate versions of files 
